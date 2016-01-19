@@ -1,1 +1,4 @@
 # This is a comment.
+cam4s.com/web/FontList.swf
+emarsys.net/js/vendor/fingerprintjs2/FontList.swf
+nitroflare.com/plugins/RandHashFlash/compiled/FontList.swf
