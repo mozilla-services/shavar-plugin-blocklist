@@ -1,4 +1,8 @@
 # This is a comment.
 cam4s.com/web/FontList.swf
 emarsys.net/js/vendor/fingerprintjs2/FontList.swf
+fling.com/iojs/resources/static/stmgwb2.swf
+iesnare.com/stmgwb1.swf
+iesnare.com/stmgwb2.swf
 nitroflare.com/plugins/RandHashFlash/compiled/FontList.swf
+snapsext.com/iojs/resources/static/stmgwb2.swf
