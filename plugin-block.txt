@@ -1,4 +1,4 @@
-# This is a comment.
+# Fingerprinting SWFs
 cam4s.com/web/FontList.swf
 emarsys.net/js/vendor/fingerprintjs2/FontList.swf
 fling.com/iojs/resources/static/stmgwb2.swf
