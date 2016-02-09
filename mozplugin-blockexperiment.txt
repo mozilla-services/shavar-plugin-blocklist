@@ -17,3 +17,8 @@ alicdn.com/tbc/search-suggest/1.3.7/storage.swf
 dditservices.com/sohandler_1.swf
 5min.com/flashcookie/StorageCookie_03.swf
 paidviewpoint.com/swf/evercookie.swf
+
+# Viewability SWFs
+adsafeprotected.com/detector_4_0.pix
+pointroll.com/ViewablePixel.swf
+vizu.com/v6/swf/vi/vtos.swf
