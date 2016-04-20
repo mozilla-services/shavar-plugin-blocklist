@@ -20,5 +20,7 @@ paidviewpoint.com/swf/evercookie.swf
 
 # Viewability SWFs
 adsafeprotected.com/detector_4_0.pix
+moatads.com/swf/MessageSenderV4.swf
+moatads.com/swf/cap.swf
 pointroll.com/ViewablePixel.swf
 vizu.com/v6/swf/vi/vtos.swf
