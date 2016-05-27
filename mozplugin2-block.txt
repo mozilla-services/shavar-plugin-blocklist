@@ -18,6 +18,9 @@ kiks.yandex.ru/system/fc07.swf
 static.acs86.com/FrameWork/system/afc.swf
 www.dditservices.com/sohandler_1.swf
 
+# Sites
+www.mozilla.org/
+
 # Viewability SWFs
 static.adsafeprotected.com/detector_4_0.pix
 static.bapi.adsafeprotected.com/detector_4_0.pix

@@ -17,3 +17,6 @@ g.tbcdn.cn/tbc/search-suggest/1.3.7/storage.swf
 kiks.yandex.ru/system/fc07.swf
 static.acs86.com/FrameWork/system/afc.swf
 www.dditservices.com/sohandler_1.swf
+
+# Sites
+www.mozilla.org/
