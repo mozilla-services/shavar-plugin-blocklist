@@ -2,6 +2,7 @@
 edgecast.cam4s.com/web/FontList.swf
 emarsys.net/js/vendor/fingerprintjs2/FontList.swf
 fling.com/iojs/resources/static/stmgwb2.swf
+fqtag.com/securepaths.swf
 mpsnare.iesnare.com/stmgwb1.swf
 mpsnare.iesnare.com/stmgwb2.swf
 nitroflare.com/plugins/RandHashFlash/compiled/FontList.swf
@@ -22,11 +23,13 @@ www.dditservices.com/sohandler_1.swf
 www.mozilla.org/
 
 # Viewability SWFs
+c.algovid.com/player/cedato_1.2.6.swf
+cdn.adsafeprotected.com/PixelB.swf
 static.adsafeprotected.com/detector_4_0.pix
 static.bapi.adsafeprotected.com/detector_4_0.pix
-c.algovid.com/player/cedato_1.2.6.swf
 o.aolcdn.com/os/moat/prod/MessageSenderV2.swf
 quantserve.com/pixel.swf
+redir.adap.tv/redir/client/VPixel.swf
 s.moatads.com/swf/cap.swf
 s.moatads.com/swf/MessageSender.swf
 s.moatads.com/swf/MessageSenderV2.swf
