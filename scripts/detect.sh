@@ -2,11 +2,9 @@
 
 swfmill=`which swfmill`
 xsltproc=`which xsltproc`
-swfextract=`which swfextract`
 # be sure that all needed commands exist
 test -z $swfmill && echo "Error: swfmill not found." && exit
 test -z $xsltproc && echo "Error: xsltproc not found." && exit
-test -z $swfextract && echo "Error: swfextract not found." && exit
 # print usage message unless all required arguments were passed
 test $# -lt 1 && echo "Usage: $0 infile" && exit
 
