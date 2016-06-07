@@ -19,4 +19,4 @@ static.acs86.com/FrameWork/system/afc.swf
 www.dditservices.com/sohandler_1.swf
 
 # Sites
-www.mozilla.org/
+#www.mozilla.org/
