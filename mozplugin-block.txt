@@ -1,6 +1,5 @@
 # Fingerprinting SWFs
 edgecast.cam4s.com/web/FontList.swf
-emarsys.net/js/vendor/fingerprintjs2/FontList.swf
 fling.com/iojs/resources/static/stmgwb2.swf
 mpsnare.iesnare.com/stmgwb1.swf
 mpsnare.iesnare.com/stmgwb2.swf
@@ -9,14 +8,15 @@ snapsext.com/iojs/resources/static/stmgwb2.swf
 
 # Supercookie SWFs
 bbcdn-bbnaut.ibillboard.com/server-static-files/bbnaut-b.swf
+cfiles.5min.com/flashcookie/StorageCookie.swf
+cfiles.5min.com/flashcookie/StorageCookie_01.swf
+cfiles.5min.com/flashcookie/StorageCookie_02.swf
 cfiles.5min.com/flashcookie/StorageCookie_03.swf
 g.alicdn.com/kg/search-suggest/6.0.10/storage.swf
 g.alicdn.com/tbc/search-suggest/1.3.7/storage.swf
 g.tbcdn.cn/kg/search-suggest/6.0.10/storage.swf
 g.tbcdn.cn/tbc/search-suggest/1.3.7/storage.swf
+kiks.yandex.ru/system/fc05.swf
+kiks.yandex.ru/system/fc06.swf
 kiks.yandex.ru/system/fc07.swf
 static.acs86.com/FrameWork/system/afc.swf
-www.dditservices.com/sohandler_1.swf
-
-# Sites
-#www.mozilla.org/
