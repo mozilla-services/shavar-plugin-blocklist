@@ -107,6 +107,13 @@ c.algovid.com/player/cedato_1.4.0.swf
 c.algovid.com/player/cedato_1.4.1.swf
 c.algovid.com/player/cedato_1.4.2.swf
 c.algovid.com/player/cedato_1.4.3.swf
+c.algovid.com/player/cedato_1.5.0.swf
+c.algovid.com/player/cedato_1.6.0.swf
+c.algovid.com/player/cedato_1.6.1.swf
+c.algovid.com/player/cedato_1.6.2.swf
+c.algovid.com/player/cedato_2.0.0.swf
+c.algovid.com/player/cedato_2.0.1.swf
+c.algovid.com/player/cedato_2.0.2.swf
 cdn.adsafeprotected.com/PixelB.swf
 static.adsafeprotected.com/detector_4_0.pix
 static.adsafeprotected.com/detector_4_1.pix
