@@ -1,1 +1,1 @@
-except.flashblock.itisatrap.org/
+except.flashallow.itisatrap.org/
