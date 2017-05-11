@@ -1,6 +1,7 @@
 flashsubdoc.itisatrap.org/
 nightly.flashstudy.example.com/
 week1.flashstudy.example.com/
+week2.flashstudy.example.com/
 103092804.com/
 1rx.io/
 247realmedia.com/
@@ -196,6 +197,7 @@ adrolays.com/
 adrolays.de/
 adroll.com/
 adrtx.net/
+ads.yahoo.com/
 adsafemedia.com/
 adsafeprotected.com/
 adsbwm.com/
@@ -560,6 +562,7 @@ cmadsasia.com/
 cmadseu.com/
 cmcore.com/
 cmmeglobal.com/
+cmptch.com/
 cnzz.com/
 cobalt.com/
 code.google.com/
@@ -688,6 +691,7 @@ directresponsegroup.com/
 directtrack.com/
 displaymarketplace.com/
 disqus.com/
+disqusads.com/
 dl-rms.com/
 dlqm.net/
 dmtracker.com/
@@ -726,6 +730,7 @@ earth.google.com/
 ebay.com/
 ebuzzing.com/
 echosearch.com/
+eclick.baidu.com/
 edgesuite.net/
 edit.yahoo.com/
 editions.com/
@@ -788,6 +793,7 @@ exelate.com/
 exelator.com/
 exitjunction.com/
 exoclick.com/
+exoticads.com/
 experian.com/
 expo-max.com/
 exponential.com/
@@ -1131,6 +1137,7 @@ halogenmediagroup.com/
 halogennetwork.com/
 haloscan.com/
 hands.com.br/
+hangouts.google.com/
 harrenmedia.com/
 harrenmedianetwork.com/
 health.google.com/
@@ -1534,6 +1541,7 @@ noisecreep.com/
 noktamedya.com/
 nostringsattached.com/
 notepad.yahoo.com/
+notifications.google.com/
 nowspots.com/
 nprove.com/
 nr-data.net/
@@ -1647,6 +1655,7 @@ piximedia.com/
 pjatr.com/
 pjtra.com/
 platform-one.co.jp/
+platform.twitter.com/
 play.google.com/
 plista.com/
 plus.google.com/
@@ -1842,6 +1851,7 @@ silver-path.com/
 silverpop.com/
 simpli.fi/
 simply.com/
+sina.com.cn/
 singlefeed.com/
 sitecompass.com/
 sitemeter.com/
@@ -2196,6 +2206,7 @@ wsod.com/
 wtp101.com/
 wunderloop.net/
 www.google.com/
+www.playviking.com/
 www.yahoo.com/
 wysistat.com/
 xa.net/
@@ -2211,6 +2222,7 @@ xiti.com/
 xmladed.com/
 xplosion.de/
 xplusone.com/
+xscores.com/
 xtendmedia.com/
 xtify.com/
 yabuka.com/
