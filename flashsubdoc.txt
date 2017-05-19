@@ -2,6 +2,7 @@ flashsubdoc.itisatrap.org/
 nightly.flashstudy.example.com/
 week1.flashstudy.example.com/
 week2.flashstudy.example.com/
+week3.flashstudy.example.com/
 103092804.com/
 1rx.io/
 247realmedia.com/
@@ -308,6 +309,7 @@ alenty.com/
 alerts.yahoo.com/
 alexa.com/
 alexametrics.com/
+aliexpress.com/
 allstarmediagroup.com/
 aloodo.com/
 am.ua/
@@ -1575,6 +1577,7 @@ oneiota.co.uk/
 onestat.com/
 onetruefan.com/
 oneupweb.com/
+online-metrix.net/
 onlinewebstats.com/
 onm.de/
 oo4.com/
@@ -1819,6 +1822,7 @@ searchforce.net/
 searchignite.com/
 searchmarketing.com/
 secure-adserver.com/
+securepaths.com/
 sedotracker.com/
 sedotracker.de/
 seevast.com/
@@ -1883,6 +1887,7 @@ sociomantic.com/
 sodoit.com/
 sophus3.co.uk/
 sophus3.com/
+soundcloud.com/
 spacechimpmedia.com/
 sparklit.com/
 sparkstudios.com/

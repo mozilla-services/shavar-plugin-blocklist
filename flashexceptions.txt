@@ -1,2 +1,3 @@
 except.flashblock.itisatrap.org/
 apps.facebook.com/
+paypal.com/
