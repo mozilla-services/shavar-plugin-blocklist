@@ -3,6 +3,7 @@ nightly.flashstudy.example.com/
 week1.flashstudy.example.com/
 week2.flashstudy.example.com/
 week3.flashstudy.example.com/
+week4.flashstudy.example.com/
 103092804.com/
 1rx.io/
 247realmedia.com/
@@ -145,6 +146,7 @@ admanager-xertive.com/
 admarketplace.com/
 admarketplace.net/
 admarvel.com/
+admatrix.jp/
 admaximizer.com/
 admedia.com/
 admeld.com/
