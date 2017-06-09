@@ -1,1 +1,10 @@
 infobarexception.flashblock.itisatrap.org/
+amazon.co.jp/
+amazon.com/
+amazon.fr/
+aol.com/
+chpoking.ru/
+ebay.com/
+ok.ru/
+twitch.tv/
+yandex.ru/
